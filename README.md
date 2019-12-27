@@ -12,3 +12,8 @@ Key Takeaways:
 **Dataset:**
 ---
 The Yelp Open Dataset is found at the URL yelp.com/dataset. This subset of Yelp's total dataset consists of 6.7 million revies, 193 thousand businesses 200 thousand pictures and 10 major metropolitan areas and is a training data set for aspiring developers
+
+| File Name | Description |
+| --------------- | ---------------|
+| business.json | 192609 Entries |
+| review.json | 6685900 Entries |
