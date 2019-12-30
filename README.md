@@ -19,3 +19,7 @@ The Yelp Open Dataset is found at the URL yelp.com/dataset. This subset of Yelp'
 | review.json | 6685900 Entries |
 | tip.json | 1223094 Entries |
 | checkin.json | 161940 Entries |
+
+**Pictures:**
+![Frequency of Reviews](pics/pic1_md.png)
+![Top 20 Words/Symbols in Business Names](pics/pic2_md.png)
