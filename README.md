@@ -15,7 +15,8 @@ Key Takeaways:
 ---
 The Yelp Open Dataset is found at the URL yelp.com/dataset. This subset of Yelp's total dataset consists of 6.7 million reviews, 193 thousand businesses 200 thousand pictures and 10 major metropolitan areas and is a training data set for aspiring developers.
 
-The Yelp Dataset was also a year long (2019) contest ended on the 31st of December 2019 for those who can find features of interest. Contest information can be found [here](https://www.yelp.com/dataset/challenge).  
+The Yelp Dataset was also a year long (2019) contest ended on the 31st of December 2019 for those who can find features of interest. Contest information can be found [here](https://www.yelp.com/dataset/challenge). The dataset used in this project is from Round 12. Current Round (as of 1/10/2020) is Round 13.
+
 
 | File Name | Number of Entries | Attributes |
 | --------------- | ---------------| ------------------------------------------------------------|
@@ -26,131 +27,131 @@ The Yelp Dataset was also a year long (2019) contest ended on the 31st of Decemb
 | tip.json | 1223094 | text, date, compliment_count |
 
 
+
 **Business EDA Plots:**
 ---
 *Frequency of Reviews*
-
 ![](pics/biz_pic1.png)
 
-*Top 20 Words/Symbols in Business Names*
 
+*Top 20 Words/Symbols in Business Names*
 ![](pics/biz_pic2.png)
 
-*From Top Left: Count Stars, Count Number of Reviews, Reviews vS. Stars, Review vs. Stars with Trend Line*
 
+*From Top Left: Count Stars, Count Number of Reviews, Reviews vS. Stars, Review vs. Stars with Trend Line*
 ![](pics/biz_pic3.png)
 
-*Reviews vs. Stars*
 
+*Reviews vs. Stars*
 ![](pics/biz_pic4.png)
 
-*Top 15 States*
 
+*Top 15 States*
 ![](pics/biz_pi5.png)
 
-*Top 20 Words in Categories*
 
+*Top 20 Words in Categories*
 ![](pics/biz_pic6.png)
 
-*Top 15 Cuisines*
 
+*Top 15 Cuisines*
 ![](pics/biz_pic7.png)
+
 
 
 **Checkin EDA Plots:**
 ---
 *Checkin's by Year*
-
 ![](pics/checkin_pic1.png)
 
-*Checkin's by Month*
 
+*Checkin's by Month*
 ![](pics/checkin_pic2.png)
 
-*Checkin's by Day*
 
+*Checkin's by Day*
 ![](pics/checkin_pic3.png)
 
-*Checkin's by Hour*
 
+*Checkin's by Hour*
 ![](pics/checkin_pic4.png)
 
-*Checkin's by Minute*
 
+*Checkin's by Minute*
 ![](pics/checkin_pic5.png)
 
-*Checkin's by Weekday*
 
+*Checkin's by Weekday*
 ![](pics/checkin_pic6.png)
+
 
 
 **Photos EDA Plots:**
 ---
 *Most Frequent Photo Labels*
-
 ![](pics/pic_pic1.png)
 
-*Most Frequent Photo Words*
-
-![](pics/pic_pic2.png)
 
 *Most Frequent Photo Words*
-
 ![](pics/pic_pic2.png)
+
+
+*Most Frequent Photo Words*
+![](pics/pic_pic2.png)
+
 
 
 **Review EDA Plot:**
 ---
 *Most Frequent Review Words*
-
 ![](pics/reviews_pic1.png)
+
 
 
 **Tips EDA Plots:**
 ---
 *Tip Counts by Year*
-
 ![](pics/tips_pic1.png)
 
-*Compliment Counts by Year*
 
+*Compliment Counts by Year*
 ![](pics/tips_pic2.png)
 
-*Tip Counts by Year*
 
+*Tip Counts by Years on Yelp*
 ![](pics/tips_pic3.png)
 
-*Tip Counts by Month 2009*
 
+*Tip Counts by Month 2009*
 ![](pics/tips_pic4.png)
 
-*Tip Counts by Month and Years*
 
+*Tip Counts by Month and Years*
 ![](pics/tips_pic5.png)
 
-*Tip Counts by Hour 2009*
 
+*Tip Counts by Hour 2009*
 ![](pics/tips_pic6.png)
 
-*Tip Counts by Hour and Years*
 
+*Tip Counts by Hour and Years*
 ![](pics/tips_pic7.png)
 
-*Top 20 Words in Tips*
 
+*Top 20 Words in Tips*
 ![](pics/tips_pic8.png)
+
 
 
 **Users EDA Plots:**
 ---
 *Users Joined By Year*
-
 ![](pics/users_pic1.png)
 
-*Top 20 Names in Users*
 
+*Top 20 Names in Users*
 ![](pics/users_pic2.png)
 
-*Reviews, Useful, Funny, Cool, Fans, Years on Yelp vs. Stars*
 
+*Reviews, Useful, Funny, Cool, Fans, Years on Yelp vs. Stars*
 ![](pics/users_pic3.png)
