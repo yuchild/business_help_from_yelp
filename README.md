@@ -122,7 +122,7 @@ The Yelp Dataset was also a year long (2019) contest ended on the 31st of Decemb
 ![](pics/users_pic1.png)
 
 *Top 20 Names in Users*
-![](pics/users_pic2.png2)
+![](pics/users_pic2.png)
 
 *Reviews, Useful, Funny, Cool, Fans, Years on Yelp vs. Stars*
 ![](pics/users_pic3.png)
