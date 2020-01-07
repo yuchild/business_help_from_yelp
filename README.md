@@ -8,11 +8,14 @@ Key Takeaways:
 1. Top five words in business names are: the, and, restaurant, of, and pizza
 2. There is a positive correlation between reviews and stars, more stars generates more reviews
 3. Half of the businesses have fewer than nine reviews
+4. Most reviews are positive, 3 or above
 
 
 **Dataset:**
 ---
-The Yelp Open Dataset is found at the URL yelp.com/dataset. This subset of Yelp's total dataset consists of 6.7 million revies, 193 thousand businesses 200 thousand pictures and 10 major metropolitan areas and is a training data set for aspiring developers
+The Yelp Open Dataset is found at the URL yelp.com/dataset. This subset of Yelp's total dataset consists of 6.7 million reviews, 193 thousand businesses 200 thousand pictures and 10 major metropolitan areas and is a training data set for aspiring developers.
+
+The Yelp Dataset was also a year long (2019) contest ended on the 31st of December 2019 for those who can find features of interest. Contest information can be found [here](https://www.yelp.com/dataset/challenge).  
 
 | File Name | Number of Entries | Attributes |
 | --------------- | ---------------| ------------------------------------------------------------|
