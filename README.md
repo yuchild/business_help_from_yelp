@@ -32,6 +32,7 @@ The Yelp Dataset was also a year long (2019) contest ended on the 31st of Decemb
 Are there any correlation between stars, useful, funny, cool, and word_count?
 
 *Correlation Table of Attributes*
+
 ![](pics/hypo_pic1.png)
 
 There seems to be some heat among useful, funny, and cool. A plot with with trend lines shows some sub-correlations?
