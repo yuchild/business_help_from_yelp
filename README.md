@@ -2,6 +2,7 @@ Business Help from Yelp
 ===
 An exploratory data analysis with a deep dive into review metrics
 ---
+
 **Executive Summary:**
 ---
 Key Takeaways:
@@ -25,6 +26,18 @@ The Yelp Dataset was also a year long (2019) contest ended on the 31st of Decemb
 | photo.json | 200000 | caption, label |
 | review.json | 5376719 | review_id, user_id, business_id, stars, useful, funny, cool, text, date |
 | tip.json | 1223094 | text, date, compliment_count |
+
+**Hypothesis Testing of Reviews Attributes:**
+---
+Are there any correlation between stars, useful, funny, cool, and word_count?
+
+*Correlation Table of Attributes*
+![](pics/hypo_pic1.png)
+
+There seems to be some heat among useful, funny, and cool. A plot with with trend lines shows some sub-correlations?
+
+*Plot of Useful, Funny, and Cool with Trend Lines*
+![](pics/hypo_pic2.png)
 
 
 
