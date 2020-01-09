@@ -48,6 +48,7 @@ Using the Chi-Square Test, is a relationship between two categorical variables w
 Are there any correlation between stars, useful, funny, cool, and word_count?
 
 Correlation Table of Attributes
+
 ![](pics/hypo_pic1.png)
 
 There seems to be some heat among useful, funny, and cool. A plot with with trend lines shows some sub-correlations?
@@ -55,13 +56,12 @@ There seems to be some heat among useful, funny, and cool. A plot with with tren
 Plot of Useful, Funny, and Cool with Trend Lines
 ![](pics/hypo_pic2.png)
 
-
-
 **Hypothesis Testing of User Attributes:**
 ---
-Are there any correlation between the attritubes in users?
+Are there any correlation between the attributes in users?
 
-![](pics/users.pic4.png)
+![](pics/users_pic4.png)
+
 
 
 **Business EDA Plots:**
