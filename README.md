@@ -101,6 +101,7 @@ Checkin's by Weekday
 **Photos EDA Plots:**
 ---
 Most Frequent Photo Labels
+
 ![](pics/pic_pic1.png)
 
 
@@ -123,47 +124,53 @@ Most Frequent Review Words
 **Tips EDA Plots:**
 ---
 Tip Counts by Year
+
 ![](pics/tips_pic1.png)
 
 
 Compliment Counts by Year
+
 ![](pics/tips_pic2.png)
 
 
 Tip Counts by Years on Yelp
+
 ![](pics/tips_pic3.png)
 
 
 Tip Counts by Month 2009
+
 ![](pics/tips_pic4.png)
 
 
 Tip Counts by Month and Years
+
 ![](pics/tips_pic5.png)
 
 
-Tip Counts by Hour 2009
+Tip Counts by Hour and Years
+
 ![](pics/tips_pic6.png)
 
 
-Tip Counts by Hour and Years
-![](pics/tips_pic7.png)
-
-
 Top 20 Words in Tips
-![](pics/tips_pic8.png)
+
+![](pics/tips_pic7.png)
 
 
 
 **Users EDA Plots:**
 ---
 Users Joined By Year
+
 ![](pics/users_pic1.png)
 
 
 Top 20 Names in Users
+
 ![](pics/users_pic2.png)
 
 
 Reviews, Useful, Funny, Cool, Fans, Years on Yelp vs. Stars
+
 ![](pics/users_pic3.png)
