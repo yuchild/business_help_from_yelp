@@ -27,8 +27,24 @@ The Yelp Dataset was also a year long (2019) contest ended on the 31st of Decemb
 | review.json | 5376719 | review_id, user_id, business_id, stars, useful, funny, cool, text, date |
 | tip.json | 1223094 | text, date, compliment_count |
 
+
+
 **Hypothesis Testing of Reviews Attributes:**
 ---
+Using the Chi-Square Test, is a relationship between two categorical variables with an alpha of 5%?
+
+| Categorical Variables | Chi^2 Statistic | Critical Value | p-value | Result |
+| --------------- | ---------------| ---------------| ---------------| ---------------|
+| Stars vs Useful | 123106.3168 | 1232.0735 | 0.000 | Reject H0, Relationship Exists |
+| Stars vs Funny | 104293.2834 | 1232.0735 | 0.000 | Reject H0, Relationship Exists |
+| Stars vs Cool | 104649.9059 | 1232.0735 | 0.000 | Reject H0, Relationship Exists |
+| Stars vs Word Count | 335307.5698 | 1232.0735 | 0.000 | Reject H0, Relationship Exists |
+| Useful vs Funny | 242566186.8255 | 1232.0735 | 0.000 | Reject H0, Relationship Exists |
+| Useful vs Cool | 276959041.9058 | 1232.0735 | 0.000 | Reject H0, Relationship Exists |
+| ... | ... | ... | ... | ... |
+| Stars vs Month | 314.5108 | 1232.0735 | 1.000 | Cannot Reject H0, Relationship Does Not Exist |
+| Stars vs Minute | 238.3721 | 1232.0735 | 1.000 | Cannot Reject H0, Relationship Does Not Exist |
+
 Are there any correlation between stars, useful, funny, cool, and word_count?
 
 Correlation Table of Attributes
@@ -39,6 +55,13 @@ There seems to be some heat among useful, funny, and cool. A plot with with tren
 Plot of Useful, Funny, and Cool with Trend Lines
 ![](pics/hypo_pic2.png)
 
+
+
+**Hypothesis Testing of User Attributes:**
+---
+Are there any correlation between the attritubes in users?
+
+![](pics/users.pic4.png)
 
 
 **Business EDA Plots:**
