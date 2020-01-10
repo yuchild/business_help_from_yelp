@@ -26,12 +26,18 @@ The Yelp Dataset was also a year long (2019) contest ended on the 31st of Decemb
 | photo.json | 200000 | caption, label |
 | review.json | 5376719 | review_id, user_id, business_id, stars, useful, funny, cool, text, date |
 | tip.json | 1223094 | text, date, compliment_count |
-
+| user.json | 1637138 | review_count, useful, funny, cool, fans, avg_stars, compliment_hot ... |
 
 
 **Hypothesis Testing of Reviews Attributes:**
 ---
 Using the Chi-Square Test, is a relationship between two categorical variables with an alpha of 5%?
+
+Each test below uses the following null and alternate hypothesis:
+| Null H0 | Alternate HA |
+| Not Statistically Related | Statistically Related |
+
+Sample Results:
 
 | Categorical Variables | Chi^2 Statistic | Critical Value | p-value | Result |
 | --------------- | ---------------| ---------------| ---------------| ---------------|
